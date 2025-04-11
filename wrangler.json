@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lets-rate-2025",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7b7b553e-afea-44d7-950e-e160cf355430",
+      "database_name": "lets-rate-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
